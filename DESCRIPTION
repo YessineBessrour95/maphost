@@ -1,10 +1,10 @@
 Package: maphost
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Maphost
 Version: 0.1.0
 Author: Yessine Bessrour
 Maintainer: YessineBessrour <yessinebessrour@gmail.com>
-Description: It's a map builder of th hospitals in tunisia.
+Description: it's a map which shows some Tunisian's hospitals.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
